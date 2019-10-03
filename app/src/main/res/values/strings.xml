@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Database PHP</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_in">sign_in</string>
+    <string name="not_having_account">not_having_account</string>
+    <string name="register">register</string>
+    <string name="sign_up">sign_up</string>
+    <string name="full_name">full_name</string>
+    <string name="already_having_account">already_having_account</string>
+    <string name="log_in">log_in</string>
+    <string name="confirm_password">confirm_password</string>
+</resources>
